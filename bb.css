@@ -1,0 +1,17 @@
+ol{
+    color: white;
+    background-color: black;
+    width: 50px;
+    border:solid gray 2px ;
+    border-radius: 4px;
+    margin: auto;
+
+}
+h2{
+    color: white;
+    background-color: gray;
+    width: 50px;
+    border:solid black 3px;
+    border-radius: 1px;
+    margin: auto;
+}
